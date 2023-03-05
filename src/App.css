@@ -1,0 +1,32 @@
+#root {
+  width: 90%;
+  margin: 50px 50px;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  background-color: rgb(190, 219, 229);
+  border-radius: 50px;
+  place-items: center;
+}
+
+body {
+  margin: 0;
+  display:inline;
+  place-items: center;
+  min-width: 500px;
+  min-height: 100vh;
+}
+
+h1{
+  font-size: 100px;
+  margin: 0 300px;
+}
+
+.MainImg{
+  margin: 0 300px;
+}
+
+.Row{
+  margin: 0 50px;
+}
